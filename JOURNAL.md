@@ -8,6 +8,9 @@ Today, I worked alot on the actual weapon. I had to consider the size of the too
 
 <img width="442" height="451" alt="pic4" src="https://github.com/user-attachments/assets/48eaa1b9-3444-4a9f-be22-393b3ecf773f" />
 <img width="578" height="430" alt="pic 1" src="https://github.com/user-attachments/assets/c280974c-2530-409b-8406-8ed9ad0fa335" />
-<img width="680" height="682" alt="pic 2" src="https://github.com/user-attachments/assets/044da792-e3a6-429c-a72f-ac542a1cb0b3" />
 <img width="625" height="541" alt="pic 3" src="https://github.com/user-attachments/assets/bc90727f-e818-44c5-a3fe-3a1b28c89584" />
+<img width="680" height="682" alt="pic 2" src="https://github.com/user-attachments/assets/044da792-e3a6-429c-a72f-ac542a1cb0b3" />
+
+**Total time 4 hours**
+
 
