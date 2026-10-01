@@ -24,7 +24,7 @@ Today, I had to fix and update the weapon. I had failed to remind myself that I 
 <img width="972" height="401" alt="body 9-29" src="https://github.com/user-attachments/assets/76b89f8b-6ba9-43e7-9566-7f4342d9c7ca" />
 <img width="982" height="567" alt="body 9-29 upright" src="https://github.com/user-attachments/assets/8f0ab0de-840e-462c-9b6f-2890ab8bd1bb" />
 
-**Total time 4 hours**
+**Total time spent: 4 hours**
 
 # September 30th: Improved the body and made parts detachable
 One of the problems I had faced early on was the weapon was going into the ground. What I did was pplace a line and made sure the robot was 1mm off the groun in order to ensure that everything was okay and that it actually funtioned. This took me quite a while. Additionally I worked on seperating the peices and imported the tires in. The one trouble I had was making the holes. Tomorrow I'm gonna put the screw holes in and hopefully finish by next week.
