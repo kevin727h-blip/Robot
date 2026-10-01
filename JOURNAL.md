@@ -13,4 +13,17 @@ Today, I worked alot on the actual weapon. I had to consider the size of the too
 
 **Total time 4 hours**
 
+# September 29th: Fixed weapon and started the body
+Today, I had to fix and update the weapon. I had failed to remind myself that I was using a much less powerful battery and as a result needed a larger diameter to compensate. This took alot longer however as I had to tweak alot of stuff to make sure my object has the right center of mass and was a under 100g to fit under the 1lb limit.Then finally I had taken the time to build the body. Importing parts from my friend, I began making the bot's body. I first included the battery and the area where my weapon would be.
+
+<img width="625" height="657" alt="pic9-29" src="https://github.com/user-attachments/assets/2f7e2efe-6441-4037-86a5-19d173a42963" />
+<img width="646" height="477" alt="top9-29" src="https://github.com/user-attachments/assets/2da45172-c4ad-4666-a5b2-0ab82d7c7077" />
+<img width="687" height="652" alt="pic39-29" src="https://github.com/user-attachments/assets/b13ec0c8-5630-4d7b-aa15-7e199a2a7ea7" />
+<img width="972" height="401" alt="body 9-29" src="https://github.com/user-attachments/assets/76b89f8b-6ba9-43e7-9566-7f4342d9c7ca" />
+<img width="982" height="567" alt="body 9-29 upright" src="https://github.com/user-attachments/assets/8f0ab0de-840e-462c-9b6f-2890ab8bd1bb" />
+
+**Total time 3 hours**
+
+
+
 
