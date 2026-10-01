@@ -13,7 +13,7 @@ Today, I worked alot on the actual weapon. I had to consider the size of the too
 <img width="578" height="430" alt="pic 1" src="https://github.com/user-attachments/assets/c280974c-2530-409b-8406-8ed9ad0fa335" />
 <img width="680" height="682" alt="pic 2" src="https://github.com/user-attachments/assets/044da792-e3a6-429c-a72f-ac542a1cb0b3" />
 
-**Total time 4 hours**
+**Total time spent: 4 hours**
 
 # September 29th: Fixed weapon and started the body
 Today, I had to fix and update the weapon. I had failed to remind myself that I was using a much less powerful battery and as a result needed a larger diameter to compensate. This took alot longer however as I had to tweak alot of stuff to make sure my object has the right center of mass and was a under 100g to fit under the 1lb limit.Then finally I had taken the time to build the body. Importing parts from my friend, I began making the bot's body. I first included the battery and the area where my weapon would be. The only problem I faced was that I put the weaponn super low and the weapon at this point was going into the ground
@@ -33,6 +33,6 @@ One of the problems I had faced early on was the weapon was going into the groun
 <img width="973" height="457" alt="best 9-30" src="https://github.com/user-attachments/assets/d3a4b25b-6176-4f9d-99f2-c942e45a2c1c" />
 
 
-**Total time: 3 hours**
+**Total time spent: 3 hours**
 
 
