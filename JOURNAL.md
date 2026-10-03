@@ -45,11 +45,12 @@ Today I mainly worked on fixing my weapon. The main problem was the fact that it
 # October 2nd: Largest day (Armor+Lid+Screws+Bearings)
 Today was the biggest and most eventful day. After working everything out, I began testing the tension of the belt for my wheels, looking to make it 4 wheel drive. After that I began constructing a lid which I fastened at the top of everything. After that I would put alot of time into seperating everythign to make sure that the bot was not 1 peice but multiple peices. This meant that if something were to break, I could easily detach it. Today I was able to attach both the top and bottom peices through screws. I first had to project the sketch and the bodies in order to do so. Next I made the lid and screwed it into the top. After that I added the bearings for the front wheels. Once I finished that, I began working on the armor, which is used to protect the wheels. This took me about 2 hours alone as I had to go back and forth with the design and some struggles. I then attached screw holes to the armor which allowed it to be easily detachable. My plan for the next time is to make inserts in the front that let me get under the bots and flip them.
 
+<img width="848" height="485" alt="10-2-4" src="https://github.com/user-attachments/assets/9069e942-72ba-4cb9-b3d9-412fba8f630c" />
 <img width="493" height="498" alt="10-2-5" src="https://github.com/user-attachments/assets/9e80cbdb-c252-4eac-b310-4a82f570c421" />
 <img width="1075" height="676" alt="10-2-1" src="https://github.com/user-attachments/assets/cfc3b172-e410-464b-a1bc-dcae9be8796a" />
 <img width="721" height="665" alt="10-2-2" src="https://github.com/user-attachments/assets/872d14e1-1883-4ba1-9639-2beb0a084c92" />
 <img width="623" height="317" alt="10-2-3" src="https://github.com/user-attachments/assets/67e4e00a-546a-4349-bbbb-3d7a239cab39" />
-<img width="848" height="485" alt="10-2-4" src="https://github.com/user-attachments/assets/9069e942-72ba-4cb9-b3d9-412fba8f630c" />
+
 
 **Total time spent: 6 hours**
 
