@@ -35,4 +35,11 @@ One of the problems I had faced early on was the weapon was going into the groun
 
 **Total time spent: 3 hours**
 
+# October 1st: Made the weapon more tight and added wheels and fixed everything
+Today I mainly worked on fixing my weapon. The main problem was the fact that it was to short to fully fit seamlessly into the port. So I increased the size of the motor and worked alot to get it the right center of mass and lighter than 120grams. Another thing I did was make everything more seamless and worked on shifting the screw holes to match the angle of the slope. Another thing I did was add all of the electronics in. I added a space for the battery, the flip switch, and the receiver which connects the the remote.
+<img width="627" height="617" alt="10-1-2" src="https://github.com/user-attachments/assets/df361be6-8ec3-46e7-aeec-c656cc30ba28" />
+<img width="862" height="497" alt="10-1-1" src="https://github.com/user-attachments/assets/3945e297-e181-47a3-9216-6534de7124c9" />
+**Total time spent: 3 hours**
+
+
 
