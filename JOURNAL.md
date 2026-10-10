@@ -54,5 +54,15 @@ Today was the biggest and most eventful day. After working everything out, I beg
 
 **Total time spent: 6 hours**
 
+# October 3-9th (Worked on getting in weight, added forks, and changed my weapons)
+This is a recap of the entire week. Monday to Thursday, I mainly worked on getting in weight. You see the competition weight limit is 1lb so when I sliced it, I was at 320 grams for just the 3d printed materials, not including wires and motors. This led me to work on making weight. This included making the uprights thinner, the walls thinner and slicing it will a smaller infil. I also update the forks which allow me to get under the robot. After that I sliced again and quickly realized that the weapon was the reason everythign weighed so much so I swtiched everything up and make the weapon symmetrical in order to cut weight. I also moved the power switch and added supports to hold the batteries.
+
+<img width="820" height="692" alt="Screenshot 2026-10-10 150310" src="https://github.com/user-attachments/assets/7d2ff791-2ac0-4388-9116-86822de5957c" />
+<img width="466" height="658" alt="weapon1-10" src="https://github.com/user-attachments/assets/1cb88ff4-b980-495e-b9ac-f4e38ca738b3" />
+<img width="695" height="663" alt="weapon 2" src="https://github.com/user-attachments/assets/0abe2e22-5525-4822-b31c-28bbfc340208" />
+<img width="1041" height="605" alt="Screenshot 2026-10-10 145126" src="https://github.com/user-attachments/assets/e0e5e8d2-b64a-49c7-bf35-079e77fa2847" />
+<img width="795" height="682" alt="Screenshot 2026-10-10 150245" src="https://github.com/user-attachments/assets/fca991fe-b3e4-46db-8655-9c135fd4c18c" />
+
+**Total time spent: 8 hours**
 
 
